@@ -3,7 +3,7 @@ title = "Centralized logging with CDK workshp"
 languageCode = "ko-KR"
 defaultContentLanguage = "ko"
 
-theme = "learn"
+theme = "hugo-theme-learn"
 showHeaderLanguageChooser=true
 defaultContentLanguageInSubdir= true
 uglyurls = true
